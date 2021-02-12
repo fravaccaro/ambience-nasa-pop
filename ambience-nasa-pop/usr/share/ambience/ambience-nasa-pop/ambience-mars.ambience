@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-mars",
+    "displayName"               : "Mars",
+    "ringerToneFile"            : { "file": "spookysaturn.mp3", "enabled": 1 },
+    "messageToneFile"           : { "file": "hi_morse.mp3",      "enabled": 1 },
+    "mailToneFile"              : { "file": "keplerc.mp3",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "spookysaturn.mp3",       "enabled": 1 },
+    "chatToneFile"              : { "file": "keplerb.mp3",       "enabled": 1 },
+    "calendarToneFile"          : { "file": "sputnik.mp3", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "water_moon.mp3",    "enabled": 1 },
+    "version"                   : 2,
+    "wallpaper"                 : "mars.png",
+    "highlightColor"            : "#fffe7f7f",
+    "secondaryHighlightColor"   : "#ffcb6666",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true
+}

@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-darthvader",
+    "files" : [
+        { "displayName" : "spooky saturn"          , "fileName" : "spookysaturn.mp3" },
+        { "displayName" : "juno hi morse code"            , "fileName" : "hi_morse.mp3" },
+        { "displayName" : "KIC7671081B"         , "fileName" : "keplerb.mp3" },
+        { "displayName" : "KIC12268220C"       , "fileName" : "keplerc.mp3" },
+        { "displayName" : "sputnik"    , "fileName" : "sputnik.mp3" },
+        { "displayName" : "water on the moon"       , "fileName" : "water_moon.mp3" }
+    ]
+}

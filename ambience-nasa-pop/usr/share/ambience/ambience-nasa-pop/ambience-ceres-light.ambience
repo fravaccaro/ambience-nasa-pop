@@ -1,0 +1,20 @@
+{
+    "translationCatalog"        : "ambience-ceres-light",
+    "displayName"               : "Ceres",
+    "wallpaper"                 : "ceres.png",
+    "highlightColor"            : "#ff990000",
+    "secondaryHighlightColor"   : "#b5990000",
+    "primaryColor"              : "#FF000000",
+    "secondaryColor"            : "#B0000000",
+    "ringerVolume"              : 98,
+    "favorite"			: true,
+    "colorScheme"               : "darkonlight",
+    "version"                   : 3,
+    "ringerToneFile"            : { "file": "spookysaturn.mp3", "enabled": 1 },
+    "messageToneFile"           : { "file": "hi_morse.mp3",      "enabled": 1 },
+    "mailToneFile"              : { "file": "keplerc.mp3",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "spookysaturn.mp3",       "enabled": 1 },
+    "chatToneFile"              : { "file": "keplerb.mp3",       "enabled": 1 },
+    "calendarToneFile"          : { "file": "sputnik.mp3", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "water_moon.mp3",    "enabled": 1 }
+}

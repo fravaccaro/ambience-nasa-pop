@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-psoj31822",
+    "displayName"               : "PSOJ318 22",
+    "ringerToneFile"            : { "file": "spookysaturn.mp3", "enabled": 1 },
+    "messageToneFile"           : { "file": "hi_morse.mp3",      "enabled": 1 },
+    "mailToneFile"              : { "file": "keplerc.mp3",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "spookysaturn.mp3",       "enabled": 1 },
+    "chatToneFile"              : { "file": "keplerb.mp3",       "enabled": 1 },
+    "calendarToneFile"          : { "file": "sputnik.mp3", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "water_moon.mp3",    "enabled": 1 },
+    "version"                   : 2,
+    "wallpaper"                 : "psoj31822.png",
+    "highlightColor"            : "#ff979bfe",
+    "secondaryHighlightColor"   : "#ff797ccb",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true
+}
